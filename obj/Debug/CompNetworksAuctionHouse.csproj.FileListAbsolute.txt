@@ -1,0 +1,13 @@
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\obj\Debug\CompNetworksAuctionHouse.csprojAssemblyReference.cache
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\obj\Debug\CompNetworksAuctionHouse.Properties.Resources.resources
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\obj\Debug\CompNetworksAuctionHouse.csproj.GenerateResource.cache
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\obj\Debug\CompNetworksAuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\obj\Debug\CompNetworksAuctionHouse.frmInfo.resources
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\obj\Debug\CompNetworksAuctionHouse.frmRecords.resources
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\obj\Debug\CompNetworksAuctionHouse.frmReport.resources
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\obj\Debug\CompNetworksAuctionHouse.frmSales.resources
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\bin\Debug\CompNetworksAuctionHouse.exe.config
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\bin\Debug\CompNetworksAuctionHouse.exe
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\bin\Debug\CompNetworksAuctionHouse.pdb
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\obj\Debug\CompNetworksAuctionHouse.exe
+C:\Users\cjsmi\source\repos\CompNetworksAuctionHouse\obj\Debug\CompNetworksAuctionHouse.pdb
