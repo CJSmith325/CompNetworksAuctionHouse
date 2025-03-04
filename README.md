@@ -1,0 +1,3 @@
+This is an old unfinsished project from my Computer Networks class that is built to use an Access database to help facilitate an auction house application.
+The next steps for this project are to first port the database to SQL and change the code to interact with the SQL based database as Microsoft Access is archaic and hard to use.
+The final step is to make the application truly server based. As of now, the code only is able to encode the memorabilia data as ASCII bytes and send them over the connection. These bytes need to be decoded and used to update the database instead of the code attached to the GUI form updating the database manually.
